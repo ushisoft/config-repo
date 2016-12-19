@@ -1,3 +1,3 @@
 config:
   name: zephyr@qa9
-  password: '{cipher}{key:mytestkey}fce901f077c809c5f6a3174b86f5aec61088b7fc0bb82a7bac4f74e3b6c40108'
+  password: '{cipher}fce901f077c809c5f6a3174b86f5aec61088b7fc0bb82a7bac4f74e3b6c40108'
