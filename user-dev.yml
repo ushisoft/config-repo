@@ -7,5 +7,5 @@ spring:
     username: rabbitmq
     password: rabbitmq
 config:
-  name: world5
+  name: world
   password: changeme
