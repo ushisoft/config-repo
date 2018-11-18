@@ -10,5 +10,5 @@ spring:
 
 ushi:
   user:
-    admin: ushi
+    admin: ushiadmin
     adminPass: changeme
