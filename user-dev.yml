@@ -1,5 +1,5 @@
 server:
   port: 8081
 config:
-  name: world2
+  name: world
   password: changeme
