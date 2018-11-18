@@ -9,5 +9,5 @@ spring:
     password: rabbitmq
 
 config:
-  name: world3
+  name: world4
   password: changeme
